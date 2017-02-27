@@ -2792,6 +2792,7 @@ bambini trust cafe and wine room sydney,Sydney,AU,3,17,30,22,30
 bambini trust cafe and wine room sydney,Sydney,AU,4,07,00,11,00
 bambini trust cafe and wine room sydney,Sydney,AU,4,12,00,15,00
 bambini trust cafe and wine room sydney,Sydney,AU,4,17,30,22,30
+bambini trust cafe and wine room sydney,Sydney,AU,5,17,30,22,30
 bamboo seattle,Seattle,US,0,11,00,21,00
 bamboo seattle,Seattle,US,1,11,00,21,00
 bamboo seattle,Seattle,US,2,11,00,21,00
@@ -4845,6 +4846,12 @@ blue door bistro london,London,GB,3,17,30,22,30
 blue door bistro london,London,GB,4,07,00,10,00
 blue door bistro london,London,GB,4,12,30,14,30
 blue door bistro london,London,GB,4,17,30,22,30
+blue door bistro london,London,GB,5,07,00,11,00
+blue door bistro london,London,GB,5,12,30,14,30
+blue door bistro london,London,GB,5,17,30,22,30
+blue door bistro london,London,GB,6,07,00,12,00
+blue door bistro london,London,GB,6,13,00,14,30
+blue door bistro london,London,GB,6,17,30,21,30
 blue door farm stand chicago 2,Chicago,US,0,10,00,20,00
 blue door farm stand chicago 2,Chicago,US,1,10,00,20,00
 blue door farm stand chicago 2,Chicago,US,2,10,00,20,00
@@ -6684,6 +6691,14 @@ cafe at the hyatt perth,Perth,AU,3,18,00,22,00
 cafe at the hyatt perth,Perth,AU,4,06,00,10,00
 cafe at the hyatt perth,Perth,AU,4,12,00,14,30
 cafe at the hyatt perth,Perth,AU,4,18,00,22,00
+cafe at the hyatt perth,Perth,AU,5,06,30,10,30
+cafe at the hyatt perth,Perth,AU,5,12,00,14,30
+cafe at the hyatt perth,Perth,AU,5,15,00,17,00
+cafe at the hyatt perth,Perth,AU,5,18,00,22,00
+cafe at the hyatt perth,Perth,AU,6,06,30,10,30
+cafe at the hyatt perth,Perth,AU,6,12,00,14,30
+cafe at the hyatt perth,Perth,AU,6,15,00,17,00
+cafe at the hyatt perth,Perth,AU,6,18,00,22,00
 cafe ba ba reeba chicago 3,Chicago,US,0,16,00,22,00
 cafe ba ba reeba chicago 3,Chicago,US,1,16,00,22,00
 cafe ba ba reeba chicago 3,Chicago,US,2,16,00,22,00
@@ -14805,6 +14820,10 @@ glass sydney,Sydney,AU,3,18,00,23,00
 glass sydney,Sydney,AU,4,06,00,10,00
 glass sydney,Sydney,AU,4,12,00,15,00
 glass sydney,Sydney,AU,4,18,00,23,00
+glass sydney,Sydney,AU,5,07,00,11,00
+glass sydney,Sydney,AU,5,18,00,23,00
+glass sydney,Sydney,AU,6,07,00,11,00
+glass sydney,Sydney,AU,6,18,00,23,00
 glass wall houston,Houston,US,1,17,00,21,00
 glass wall houston,Houston,US,2,17,00,21,00
 glass wall houston,Houston,US,3,17,00,21,00
@@ -16245,6 +16264,12 @@ hangar bar and grill san jose,San Jose,US,3,16,00,23,00
 hangar bar and grill san jose,San Jose,US,4,06,00,11,00
 hangar bar and grill san jose,San Jose,US,4,11,30,14,00
 hangar bar and grill san jose,San Jose,US,4,16,00,22,00
+hangar bar and grill san jose,San Jose,US,5,06,00,11,00
+hangar bar and grill san jose,San Jose,US,5,11,30,14,00
+hangar bar and grill san jose,San Jose,US,5,16,00,22,00
+hangar bar and grill san jose,San Jose,US,6,06,00,11,00
+hangar bar and grill san jose,San Jose,US,6,11,30,14,00
+hangar bar and grill san jose,San Jose,US,6,16,00,22,00
 hankow cuisine san jose 5,San Jose,US,0,11,30,14,00
 hankow cuisine san jose 5,San Jose,US,0,17,00,01,00
 hankow cuisine san jose 5,San Jose,US,1,11,30,14,00
@@ -18323,6 +18348,8 @@ intermezzo ristorante sydney 3,Sydney,AU,3,18,00,22,00
 intermezzo ristorante sydney 3,Sydney,AU,4,07,00,10,30
 intermezzo ristorante sydney 3,Sydney,AU,4,12,00,15,00
 intermezzo ristorante sydney 3,Sydney,AU,4,18,00,22,00
+intermezzo ristorante sydney 3,Sydney,AU,5,08,00,15,00
+intermezzo ristorante sydney 3,Sydney,AU,5,18,00,22,00
 intermission tavern boston 2,Boston,US,0,11,00,02,00
 intermission tavern boston 2,Boston,US,1,11,00,02,00
 intermission tavern boston 2,Boston,US,2,11,00,02,00
@@ -19479,6 +19506,10 @@ jp charlotte at westin charlotte,Charlotte,US,3,17,00,22,00
 jp charlotte at westin charlotte,Charlotte,US,4,06,00,10,30
 jp charlotte at westin charlotte,Charlotte,US,4,11,00,14,00
 jp charlotte at westin charlotte,Charlotte,US,4,17,00,23,00
+jp charlotte at westin charlotte,Charlotte,US,5,06,00,14,00
+jp charlotte at westin charlotte,Charlotte,US,5,17,00,23,00
+jp charlotte at westin charlotte,Charlotte,US,6,06,00,14,00
+jp charlotte at westin charlotte,Charlotte,US,6,17,00,22,00
 jrs bar and grill liverpool,Liverpool,GB,0,11,00,23,00
 jrs bar and grill liverpool,Liverpool,GB,1,11,00,23,00
 jrs bar and grill liverpool,Liverpool,GB,2,11,00,23,00
@@ -19583,6 +19614,12 @@ julios west perth,West Perth,AU,3,17,00,22,30
 julios west perth,West Perth,AU,4,06,30,10,30
 julios west perth,West Perth,AU,4,11,30,15,00
 julios west perth,West Perth,AU,4,17,00,22,30
+julios west perth,West Perth,AU,5,06,30,10,30
+julios west perth,West Perth,AU,5,11,30,15,00
+julios west perth,West Perth,AU,5,17,00,22,30
+julios west perth,West Perth,AU,6,06,30,10,30
+julios west perth,West Perth,AU,6,11,30,15,00
+julios west perth,West Perth,AU,6,17,00,22,30
 jumping rice and rolls las vegas,Las Vegas,US,0,11,00,22,00
 jumping rice and rolls las vegas,Las Vegas,US,1,11,00,22,00
 jumping rice and rolls las vegas,Las Vegas,US,2,11,00,22,00
@@ -21684,6 +21721,8 @@ le coucou new york,New York,US,3,17,00,23,00
 le coucou new york,New York,US,4,07,00,11,00
 le coucou new york,New York,US,4,11,30,14,00
 le coucou new york,New York,US,4,17,00,23,00
+le coucou new york,New York,US,5,07,00,14,00
+le coucou new york,New York,US,6,07,00,14,00
 le diplomate washington,Washington,US,0,17,00,22,00
 le diplomate washington,Washington,US,1,17,00,22,00
 le diplomate washington,Washington,US,2,17,00,23,00
@@ -22499,6 +22538,10 @@ locanda verde new york,New York,US,3,17,30,23,00
 locanda verde new york,New York,US,4,07,00,11,00
 locanda verde new york,New York,US,4,11,30,15,00
 locanda verde new york,New York,US,4,17,30,23,00
+locanda verde new york,New York,US,5,08,00,15,00
+locanda verde new york,New York,US,5,17,30,23,00
+locanda verde new york,New York,US,6,08,00,15,00
+locanda verde new york,New York,US,6,17,30,23,00
 locavore cafe brisbane,Brisbane,AU,0,05,30,15,00
 locavore cafe brisbane,Brisbane,AU,1,05,30,15,00
 locavore cafe brisbane,Brisbane,AU,2,05,30,15,00
@@ -29784,6 +29827,7 @@ pei modern melbourne,Melbourne,AU,3,17,30,23,00
 pei modern melbourne,Melbourne,AU,4,07,30,11,30
 pei modern melbourne,Melbourne,AU,4,12,00,14,30
 pei modern melbourne,Melbourne,AU,4,17,30,23,00
+pei modern melbourne,Melbourne,AU,5,09,30,23,00
 pei modern sydney,Sydney,AU,0,12,00,15,00
 pei modern sydney,Sydney,AU,0,17,30,22,30
 pei modern sydney,Sydney,AU,1,12,00,15,00
@@ -38313,6 +38357,12 @@ tabard inn restaurant washington 2,Washington,US,3,17,30,22,00
 tabard inn restaurant washington 2,Washington,US,4,07,00,10,00
 tabard inn restaurant washington 2,Washington,US,4,11,30,14,30
 tabard inn restaurant washington 2,Washington,US,4,17,30,22,00
+tabard inn restaurant washington 2,Washington,US,5,07,00,09,00
+tabard inn restaurant washington 2,Washington,US,5,10,30,14,30
+tabard inn restaurant washington 2,Washington,US,5,17,30,22,00
+tabard inn restaurant washington 2,Washington,US,6,07,00,09,00
+tabard inn restaurant washington 2,Washington,US,6,10,30,14,30
+tabard inn restaurant washington 2,Washington,US,6,17,30,21,30
 taberna do mercado london,London,GB,0,12,00,22,00
 taberna do mercado london,London,GB,1,12,00,22,00
 taberna do mercado london,London,GB,2,12,00,22,00
