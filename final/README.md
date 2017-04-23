@@ -39,7 +39,7 @@ Analyzed each match of each league and found the ratio of home team and away tea
 
 
 ### Analysis 3:
-Analyzed each match in premire league 2015 and calculated the conversion rate of chances created by each team home,away and in total.
+Analyzed each match in premier league 2015 and calculated the conversion rate of chances created by each team home,away and in total.
 - STEP 1 - Extracted data into a dataframe from the csv file 'pl2015.csv' which was created during analysis 2.
 - STEP 2 - Created a new dataframe home and stored the previously extracted data grouped by the home team name with the sum attribute, hence giving the count Shots on target by the home team and goals scored by the home team.
 - STEP 3 - Added a new colomn for holding the count of chances created by the home team. (Shots on target+goals scored)
