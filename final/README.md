@@ -13,17 +13,24 @@ Other than the API data few extra data about each leagues we taken. the are stor
 
 ### Analysis 1:
 Analyzed each of the leagues point table data to find which league is more competitive.
-- STEP 1 - An empty data frame was created.
+- STEP 1 - An empty dataframe was created.
 - STEP 2 - Iterating through each of the stored league point table the data was added to the data frame.
 - STEP 3 - Added the respective league's names to each of the leagues data.
-- STEP 4 - A strip plot was ploted with league names as X axsis and the points as Y axsis.
+- STEP 4 - A stripplot was ploted with league names as X axsis and the points as Y axsis.
 <img width="800" alt="screen shot 2017-04-21 at 9 12 08 pm" src="https://cloud.githubusercontent.com/assets/22924110/25300189/a17d2b60-26d7-11e7-922d-9fd21cc30787.png">
 
 
 
 ### Analysis 2:
-Analyzed each match of each league and found the ratio of home team and away team wining the match after conceding in the first half.
-- STEP 1 - For the 2015 season for leagues such as Premier League, 1. Bundesliga, Primera Division, Ligue 1 
+Analyzed each match of each league and found the ratio of home team and away team wining the match after conceding or falling behind the opponent in the first half.
+- STEP 1 - Empty dataframes were created for each leagues such as Premier League, 1. Bundesliga, Primera Division, Ligue 1 in 2015 season
+- STEP 2 - Fixtures of each of these leagues were iterated through separately and stored in their respective dataframe in an appropriate format.
+- STEP 3 - Extract the data into a dataframe from the extra_data csv file for that particular league.
+- STEP 4 - Change the team names in this dataframe to a standard format.
+- STEP 5 - Merge the 2 dataframes with with away and home team names as keys and write it to a csv file eg:'../data/pl2015.csv'.
+- STEP 6 - From the merged dataframe separated the data of the matches in which the team that conceded in first half won the game at full time.
+- STEP 7 - From the separated data, the data about away team winning the game and home team winning the game is stored in different dataframes for each of the selected leagues eg:pAway,pHome, etc.
+- STEP 8 - A barplot was ploted with selected league names as X axsis and the counts of games won by teams conceding or falling behind the opponent in the first half as Y axsis.
 
 <img width="800" alt="screen shot 2017-04-21 at 9 13 34 pm" src="https://cloud.githubusercontent.com/assets/22924110/25300190/a34ef612-26d7-11e7-9193-27f157886fe0.png">
 
@@ -32,7 +39,8 @@ Analyzed each match of each league and found the ratio of home team and away tea
 
 ### Analysis 3:
 Analyzed each match in premire league 2015 and calculated the conversion rate of chances created by each team home,away and in total.
-- STEP 1
+- STEP 1 - Extracted data from the csv file 'pl2015.csv' which was created during analysis 2
+
 <img width="800" alt="screen shot 2017-04-22 at 4 26 44 pm" src="https://cloud.githubusercontent.com/assets/22924110/25307979/f15c5ed4-2778-11e7-9c98-d5b2ccab4b56.png">
 
 
